@@ -1,0 +1,160 @@
+
+@media only screen and (max-width: 1199px){
+    .banner-text{
+		top: 320px;
+	}
+
+	.rbanner-text{
+		top: 390px;
+	}
+
+	.page-header{
+		margin-left: 300px;
+		margin-right: 300px;
+	}
+
+	.third{
+		margin-right: -2px;
+	}
+
+	.imagee{
+		height: 600px;
+	}
+	
+}
+
+@media only screen and (max-width: 1024px){
+    .page-header{
+		margin-left: 200px;
+		margin-right: 200px;
+	}
+
+	.imagee{
+		height: 500px;
+	}
+
+	.product-side{
+		padding: 20px 70px;
+	}
+	
+}
+
+@media only screen and (max-width: 991px){
+    .banner-text{
+		top: 200px;
+    	margin-left: -100px;
+	}
+
+	.rbanner-text{
+		width: 350px;
+		top: 200px;
+	}
+
+	#h-title{
+		text-align: center;
+	}
+
+	.imagee{
+		height: 410px;
+	}
+
+	.third {
+		margin-left: 0;
+	}
+
+	.subs{
+		margin-left: 0;
+		margin-bottom: 0;
+	}
+
+	.indv{
+		margin-bottom: 30px;
+	}
+
+	.email{
+		width: 100%;
+		padding: 0;
+		margin-bottom: 10px;
+	}
+
+	.subsbtn{
+		padding: 0;
+	}
+	
+	.product-side{
+		padding: 0 20px;
+	}
+}
+
+@media only screen and (max-width: 767px){
+    .banner-text{
+		top: 0;
+		margin-left: 0;
+		position: unset;
+		margin-top: 20px;
+	}
+	
+	.rbanner-text{
+		width: 100%;
+		top: 0;
+		margin-left: 0;
+		position: unset;
+		margin-top: 20px;
+	}
+
+
+	.page-header{
+		margin-left: 100px;
+		margin-right: 100px;
+	}
+
+	.imagee{
+		height: 630px;
+	}
+
+	.left{
+		padding-left: 15px;
+	}
+
+	footer{
+		text-align: center;
+	}
+
+	.subsbtn{
+		width: 100%;
+	}
+	
+	.choice-title{
+		text-align: center;
+		margin-left: 0;
+	}
+
+@media only screen and (max-width: 500px){
+    header .nav {
+
+		display: none;
+	}
+
+    .navbar{
+
+        display: block;
+
+	}
+	
+	.imagee{
+		height: 530px;
+	}
+
+	.page-header{
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+
+	
+}
+
+@media only screen and (max-width: 375px){
+    .imagee{
+		height: 360px;
+	}
+}
